@@ -48,7 +48,7 @@
 <h3>📸 UI Preview</h3>
 
 <p align="center">
-  <img src="screenshot.png" alt="Recipe Page Screenshot" width="800" />
+  <img src="UI.png" alt="Recipe Page Screenshot" width="800" />
 </p>
 
 ---
